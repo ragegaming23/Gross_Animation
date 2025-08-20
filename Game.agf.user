@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=Gross_Animation,Windows=Gross_Animation,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=Gross_Animation,Windows=Gross_Animation,_Debug=Gross_Animation,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
