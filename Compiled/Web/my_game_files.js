@@ -1,0 +1,1 @@
+var gamefiles = ['Gross_Animation.ags', 'acsetup.cfg'];
